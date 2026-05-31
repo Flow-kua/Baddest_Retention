@@ -1,4 +1,4 @@
-# Baddest Retention 最野留存
+# Baddest Retention 
 
 > 🐾 桌面知识宠物 — 拖拽文件 → AI 整理 → 结构化知识库
 
