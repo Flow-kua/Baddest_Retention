@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Electron runtime (Chromium DLLs, etc.)
+*.dll
+*.pak
+*.bin
+*.dat
+/vk_swiftshader_icd.json
+/locales/
+/version
+
+# Node
+node_modules/
+resources/app/dist/
+resources/app/node_modules/
+
+# PyInstaller
+backend/build/
+backend/dist/
+
+# Runtime data (含用户数据库、API Key)
+data/
+
+# Build artifacts
+/resources/default_app.asar
+debug.log
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+*.env
+LICENSES.chromium.html
