@@ -94,7 +94,7 @@ npm run build
 
 ## 下载
 
-[GitHub Releases](https://github.com/你的用户名/Baddest_Retention/releases) 提供编译好的安装包，直接下载 `Baddest_Retention_Setup.exe` 双击安装即可。
+[GitHub Releases](https://github.com/Flow-kua/Baddest_Retention/releases) 提供编译好的安装包，直接下载 `Baddest_Retention_Setup.exe` 双击安装即可。
 
 ## 系统要求
 
